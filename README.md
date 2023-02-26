@@ -8,4 +8,4 @@ We have built our CNN model with 5 convolution layers and 3 max pooling operatio
 
 By changing parameters like learning rates, number of epoches and number of steps per epoch, we try to improve the accuracy on every testing. 
 
-Initially we have done it only 7 times and reached an accuracy of 31.9% from 19.4%. We will work on this further in the future. 
+Initially we have done it only 7 times and reached an accuracy of 31.9% from 19.7%. We will work on this further in the future. 
